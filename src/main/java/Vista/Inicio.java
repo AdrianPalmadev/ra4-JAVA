@@ -4,7 +4,10 @@ import static Api.Api.*;
 import static Controlador.ControladorEntidad.*;
 
 public class Inicio {
-
+/**
+ * 
+ * @param args MAIN, menu con 
+ */
     public static void main(String[] args) {
         boolean exit = false;
         int nummenu;
